@@ -1,5 +1,8 @@
 ---
 layout: admin/edit-post
-permalink: /edit
+permalink: /admin/edit
+redirect_from:
+    - /edit/
+    - /edit
 title: Edit a post
 ---
