@@ -1,0 +1,80 @@
+# Site settings
+
+title: "You Should Listen to This"
+subtitle: "A blog about bops."
+description: "'You Should Listen to This' is a blog about brilliant pop songs"
+author: "Adam Robson"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://youshouldlistentothis.github.io"
+
+
+# Images and assets
+image-path: "/assets/images"
+css-path: "/assets/styles"
+
+social-images-path: "/assets/images/social"
+post-images-path: "/assets/images/posts"
+
+social-media-image: "/assets/images/site/social-media.png"
+wordmark-svg-image: "/assets/images/site/workmark.min.svg"
+
+theme-colour: "#00E30F"
+
+favicon: "/favicon.ico"
+favicon-svg: "/assets/images/site/favicon.svg"
+favicon-pinned-svg: "/assets/images/site/favicon-pinned-svg.svg"
+favicon-large-png: "/assets/images/site/favicon-large-png.png"
+
+# # Social settings
+# facebook-app-id: "" # For Facebook OpenGraph integration
+# facebook-profile-id: "" # For Facebook OpenGraph integration
+# facebook-url:	"https://facebook.com/"
+# facebook-handle: "" # Automatically pre-pends http://facebook.com/
+# 
+# twitter-url: "https://twitter.com/" # Twitter handle i.e. joebloggs
+# twitter-handle: "" # Twitter handle i.e. joebloggs
+# 
+# linkedin-url:  "https://www.linkedin.com/in/"
+# linkedin-handle:  ""
+# 
+# flickr-url:  "https://www.flickr.com/photos/"
+# flickr-handle:  ""
+# 
+# instagram-url:  "https://www.instagram.com/"
+# instagram-handle:  ""
+# 
+# github-url:  "https://github.com/"
+# github-handle:  ""
+
+# Third party settings
+google-site-verification: ""
+analytics: false
+cloudflare: "" # Token from Cloudflare for analytics
+
+# Site header and footer
+
+header: true
+footer: true
+
+debug: false
+
+# Plugins and build settings
+
+paginate: 5
+paginate_path: "/:num/"
+
+permalink: pretty
+markdown: kramdown
+future: false
+sass:
+    sass_dir: _sass
+
+remote_theme: youshouldlistentothis/theme
+
+plugins:
+- jekyll-paginate
+- jekyll-remote-theme
+
+
+
