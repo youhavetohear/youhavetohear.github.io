@@ -6,7 +6,7 @@ description: "'You Have to Hear This' is a blog about brilliant pop songs"
 author: "Adam Robson"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://youhavetohearthis.github.io"
+url: "https://youhavetohear.github.io"
 
 
 # Images and assets
