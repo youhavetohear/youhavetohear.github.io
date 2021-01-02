@@ -1,12 +1,12 @@
 # Site settings
 
-title: "You Should Listen to This"
+title: "You Have to Hear This"
 subtitle: "A blog about bops."
-description: "'You Should Listen to This' is a blog about brilliant pop songs"
+description: "'You Have to Hear This' is a blog about brilliant pop songs"
 author: "Adam Robson"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://youshouldlistentothis.github.io"
+url: "https://youhavetohearthis.github.io"
 
 
 # Images and assets
@@ -32,7 +32,7 @@ facebook-profile-id: "" # For Facebook OpenGraph integration
 facebook-url:	"https://facebook.com/"
 facebook-handle: "" # Automatically pre-pends http://facebook.com/
 
-twitter-url: "https://twitter.com/" # Twitter handle i.e. joebloggs
+twitter-url: "https://twitter.com/youhavetohear" # Twitter handle i.e. joebloggs
 twitter-handle: "" # Twitter handle i.e. joebloggs
 
 linkedin-url:  "https://www.linkedin.com/in/"
@@ -70,7 +70,7 @@ future: false
 highlighter: rouge
 encoding: UTF-8
 
-remote_theme: youshouldlistentothis/theme@main
+remote_theme: youhavetohearthis/theme@main
 
 plugins:
 - jekyll-paginate
