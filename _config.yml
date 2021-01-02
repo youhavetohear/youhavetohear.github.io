@@ -26,26 +26,26 @@ favicon-svg: "/assets/images/site/favicon.svg"
 favicon-pinned-svg: "/assets/images/site/favicon-pinned-svg.svg"
 favicon-large-png: "/assets/images/site/favicon-large-png.png"
 
-# # Social settings
-# facebook-app-id: "" # For Facebook OpenGraph integration
-# facebook-profile-id: "" # For Facebook OpenGraph integration
-# facebook-url:	"https://facebook.com/"
-# facebook-handle: "" # Automatically pre-pends http://facebook.com/
-# 
-# twitter-url: "https://twitter.com/" # Twitter handle i.e. joebloggs
-# twitter-handle: "" # Twitter handle i.e. joebloggs
-# 
-# linkedin-url:  "https://www.linkedin.com/in/"
-# linkedin-handle:  ""
-# 
-# flickr-url:  "https://www.flickr.com/photos/"
-# flickr-handle:  ""
-# 
-# instagram-url:  "https://www.instagram.com/"
-# instagram-handle:  ""
-# 
-# github-url:  "https://github.com/"
-# github-handle:  ""
+# Social settings
+facebook-app-id: "" # For Facebook OpenGraph integration
+facebook-profile-id: "" # For Facebook OpenGraph integration
+facebook-url:	"https://facebook.com/"
+facebook-handle: "" # Automatically pre-pends http://facebook.com/
+
+twitter-url: "https://twitter.com/" # Twitter handle i.e. joebloggs
+twitter-handle: "" # Twitter handle i.e. joebloggs
+
+linkedin-url:  "https://www.linkedin.com/in/"
+linkedin-handle:  ""
+
+flickr-url:  "https://www.flickr.com/photos/"
+flickr-handle:  ""
+
+instagram-url:  "https://www.instagram.com/"
+instagram-handle:  ""
+
+github-url:  "https://github.com/"
+github-handle:  ""
 
 # Third party settings
 google-site-verification: ""
@@ -68,8 +68,9 @@ permalink: pretty
 markdown: kramdown
 future: false
 highlighter: rouge
+encoding: UTF-8
 
-remote_theme: youshouldlistentothis/theme
+remote_theme: youshouldlistentothis/theme@main
 
 plugins:
 - jekyll-paginate
