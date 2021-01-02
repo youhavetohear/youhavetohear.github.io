@@ -67,14 +67,16 @@ paginate_path: "/:num/"
 permalink: pretty
 markdown: kramdown
 future: false
-sass:
-    sass_dir: _sass
+highlighter: rouge
 
 remote_theme: youshouldlistentothis/theme
 
 plugins:
 - jekyll-paginate
 - jekyll-remote-theme
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-redirect-from
 
 
 
