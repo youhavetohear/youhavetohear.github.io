@@ -8,6 +8,10 @@ author: "Adam Robson"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://youhavetohear.github.io"
 
+# Where is the repo?
+
+github_repo: youhavetohear/youhavetohear.github.io
+branch: main
 
 # Images and assets
 image-path: "/assets/images"
