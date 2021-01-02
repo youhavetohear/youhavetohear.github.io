@@ -2,7 +2,6 @@
 layout: post
 title: Rhythm and Decibel
 artist: The Lovers of Valdaro
-link: https://apple.music
 spotify: 
     - https://open.spotify.com/track/0PDP4b7opFsnUhMyCIOJwT
 applemusic:
