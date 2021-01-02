@@ -70,7 +70,7 @@ future: false
 highlighter: rouge
 encoding: UTF-8
 
-remote_theme: youhavetohearthis/theme@main
+remote_theme: youhavetohear/theme@main
 
 plugins:
 - jekyll-paginate
