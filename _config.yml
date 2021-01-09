@@ -16,6 +16,7 @@ branch: main
 # Images and assets
 image-path: "/assets/images"
 css-path: "/assets/styles"
+css-path: "/assets/scripts"
 
 social-images-path: "/assets/images/social"
 post-images-path: "/assets/images/posts"
