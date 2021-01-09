@@ -1,8 +1,8 @@
 # Site settings
 
 title: "You Have to Hear This"
-subtitle: "A blog about bops."
-description: "'You Have to Hear This' is a blog about brilliant pop songs"
+subtitle: "Musical recommendations from newcomers to worldwide stars, cross genre."
+description: "Musical recommendations from newcomers to worldwide stars. We only pick songs we heard and then said “You Have to Hear This!”"
 author: "Adam Robson"
 
 baseurl: "" # the subpath of your site, e.g. /blog
