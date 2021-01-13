@@ -14,16 +14,19 @@ layout: null
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | append: " by " | append: post.artist | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}<br>{% if post.spotify %}
-            <a class="button spotify" href="{{ post.spotify }}" title="Visit Spotify to listen to {{ post.title | smartify }} by {{ post.artist | smartify }}" rel="external">
+        <description>
+        {{ post.content | xml_escape }}
+          {% if post.spotify %}
+            &lt;p&gt;&lt;a class="button spotify" href="{{ post.spotify }}" title="Visit Spotify to listen to {{ post.title | smartify }} by {{ post.artist | smartify }}" rel="external"&gt;
                 Listen on Spotify
-            </a><br>
-            {% endif %}
-            {% if post.applemusic %}
-            <a class="button applemusic" href="{{ post.applemusic }}" title="Visit Apple Music to listen to {{ post.title | smartify }} by {{ post.artist | smartify }}" rel="external">
+            &lt;/a&gt;&lt;/p&gt; 
+          {% endif %}
+          {% if post.applemusic %}
+            &lt;p&gt;&lt;a class="button applemusic" href="{{ post.applemusic }}" title="Visit Apple Music to listen to {{ post.title | smartify }} by {{ post.artist | smartify }}" rel="external"&gt;
                 Listen on Apple Music
-            </a>
-            {% endif %}</description>
+            &lt;/a&gt;&lt;/p&gt;
+          {% endif %}  
+        </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
