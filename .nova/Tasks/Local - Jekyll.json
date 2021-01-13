@@ -10,7 +10,7 @@
     },
     "run" : {
       "enabled" : true,
-      "script" : "#!\/bin\/sh\nbundle exec jekyll serve --future --trace"
+      "script" : "#!\/bin\/sh\njekyll serve"
     }
   },
   "identifier" : "AA78DE2E-898D-4BDE-A44C-0E8D902E246A",
