@@ -21,4 +21,4 @@ It sits in Olly’s vocal sweet spot, he sounds beautiful against the simple pia
 
 We stay very excited for the series this evening and this stunning lead in is a lovely little bonus. 
 
-**For fans of:** Sam Smith in his ballad days, a lyric with real meaning, holding up a mirror to the past then crying.
+**For fans of:** Sam Smith in their ballad days, a lyric with real meaning, holding up a mirror to the past then crying.
