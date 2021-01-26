@@ -4,7 +4,7 @@ date: 2021-01-26 17:22:01
 title: "Black Hole"
 artist: "Griff"
 spotify: 
-    - https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGD
+    - https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq
 applemusic: 
     - https://music.apple.com/gb/album/black-hole/1544276500?i=1544276501
 ---
