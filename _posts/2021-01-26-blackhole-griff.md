@@ -17,4 +17,4 @@ The song puts us in mind of Ava Max - but with some restraint. What we mean by t
 
 Off the back of breakthrough ballad Love Is A Compass, Griff is proving she can master multiple tempos, styles and moodboards - and we’re excited to watch her grow. 
 
-*For fans of:** RAYE, pretending that you’re over it and absolutely not being over it, exciting New Pop Females.
+**For fans of:** RAYE, pretending that you’re over it and absolutely not being over it, exciting New Pop Females.
