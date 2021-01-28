@@ -17,4 +17,4 @@ It’s a really interesting lyric, particularly ‘the loudest voice - it has mo
 
 On a purely aesthetic level, from the opening triple clap, it is a romp start to finish, but it does have layers, growing from a simple beat and bass verse (with lovely layered harmonies from guest Madeleine) to a more blossomed, fuller production in the pre-chorus and chorus double whammy. And (perhaps unusually for queer pop music?) even packs in a guitar solo for good measure. In a way, it doesn’t let up much - but in the best ways!
 
-**For fans of**: Years on Years on an Initial Talk vibe, multiple melody ideas whacking you on the head one after t’other, Big Gay Disco Energy.
+**For fans of**: Years & Years on an Initial Talk vibe, multiple melody ideas whacking you on the head one after t’other, Big Gay Disco Energy.
