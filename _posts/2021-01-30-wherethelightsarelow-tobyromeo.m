@@ -3,8 +3,8 @@ layout: post
 date: 2021-01-30 17:28:30
 title: "Where The Lights Are Low"
 artist: "Toby Romeo, Felix Jaehn & FAULHABER"
-spotify: 
-    - https://open.spotify.com/track/0Cnb8XdGDMHAmIRBUJ
+spotify:
+    - https://open.spotify.com/track/0Cnb8XdGDMHAmIRBUJMkIS
 applemusic: 
     - https://music.apple.com/gb/album/where-the-lights-are-low/1546569190?i=1546569192
 ---
