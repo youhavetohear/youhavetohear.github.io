@@ -9,7 +9,7 @@ applemusic:
     - https://music.apple.com/gb/album/big-feat-gunna/1550946614?i=1550946615
 ---
 
-‘Big’ is not just the title of the new Rita Ora and Imanbek collaboration, but also a descriptor of the sound. **You Have To Hear** this David Guetta assisted anthem, because it’s going to be the soundtrack of your post-Coronavirus dancefloors!
+‘Big’ is not just the title of the new Rita Ora and Imanbek collaboration, but also a descriptor of the sound. **You have to hear** this David Guetta assisted anthem, because it’s going to be the soundtrack of your post-Coronavirus dancefloors!
 
 We know she’s been a little naughty of late, and some are not ready to reward that behaviour. But we are _weak_, we listened, and now we are in love with the whole _Bang_ EP, which - similarly to ‘Big’ _ is an apt title for a collection of songs that go all the way off. 
 
