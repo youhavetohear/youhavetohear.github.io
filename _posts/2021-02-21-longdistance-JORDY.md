@@ -11,7 +11,7 @@ applemusic:
 
 More upbeat pop for you today from LA’s JORDY, whose wish to find real love - even if it’s over the pond on the other side of the world - rather than a neighbour with no real interest is today’s song that **you have to hear**
 
-The song does a few things we really enjoy - firstly, it’s proudly queer from the off, JORDY singing within the first five seconds ‘met a guy on the internet last week’ - and that’s refreshing. Maybe it shouldn’t be a point of note but it still feels special to hear artists using their authentic voice and stories. Second - it utilises a really great use of intricate music and lyric to deliver quickfire verses with really satisfying rhyme schemes set to truly catchy melody, construction that feels like it took real time and thought.
+The song does a few things we really enjoy - firstly, it’s proudly queer from the off, JORDY singing within the first five seconds ‘met a guy on the internet last week’ - and that’s refreshing. Maybe it shouldn’t be a point of note but it still feels special to hear artists using their authentic voice and stories. Second - it utilises a really great use of intricate music and lyric to deliver quickfire verses with really satisfying rhyme schemes set to truly catchy melody ('that it was useless - but the truth is, it was just another one of his excuses') - construction that feels like it took real time and thought.
 
 Thirdly, the production remains interesting throughout, sometimes just sparse bleeps, claps and bloops (official terminology), to the occasional DOUBLE CLAP (always a pop song hero) through to much fuller computerised backings that build as the song progresses. At times it sounds like it’s come from the future and could certainly never be accused of being generic. 
 
