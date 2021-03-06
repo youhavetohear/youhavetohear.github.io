@@ -4,7 +4,7 @@ date: 2021-03-06 18:22:35
 title: "This Is Heaven"
 artist: "Nick Jonas"
 spotify: 
-    - https://open.spotify.com/track/7oAly6qQFPu1JhmlE2Vujgg
+    - https://open.spotify.com/track/7oAly6qQFPu1JhmlE2Vujg
 applemusic: 
     - https://music.apple.com/gb/album/this-is-heaven/1554879162?i=1554879280
 ---
