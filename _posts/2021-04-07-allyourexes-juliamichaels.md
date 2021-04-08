@@ -17,7 +17,7 @@ Starting out as a quaint acoustic number with sparse backing and yearning lyrics
 
 We all understand the heart dropping feeling when an ex gets brought into conversation, and Julia is not afraid to make her feelings on it known (‘I’m confident I’ve got them accurately demonised’) in a song that builds and builds, drums upon production upon guitar until it is entirely unrecognisable from how it began. 
 
-‘You tell me not to worry, I’m the only thing you see - well where I fucking better be!’ she sings as the song launches into its biggest and loudest chorus yet (feat some beautiful harmony work). This is a song with very obvious purpose, big backbone energy and absolutely zero shyness. And if you predicted where it would end up from where it began... then can I have the lottery numbers? 
+‘You tell me not to worry, I’m the only thing you see - well yeah I fucking better be!’ she sings as the song launches into its biggest and loudest chorus yet (feat some beautiful harmony work). This is a song with very obvious purpose, big backbone energy and absolutely zero shyness. And if you predicted where it would end up from where it began... then can I have the lottery numbers? 
 
 As catchy as it is risk tasking, this will be in your head for days... but your ex lovers better not be.
 
